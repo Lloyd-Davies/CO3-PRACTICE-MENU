@@ -1,0 +1,11 @@
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\bin\Debug\CO3 PRACTICE MENU.exe.config
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\bin\Debug\CO3 PRACTICE MENU.exe
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\bin\Debug\CO3 PRACTICE MENU.pdb
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\obj\Debug\CO3 PRACTICE MENU.csprojResolveAssemblyReference.cache
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\obj\Debug\CO3_PRACTICE_MENU.Form1.resources
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\obj\Debug\CO3_PRACTICE_MENU.GameWindow.resources
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\obj\Debug\CO3_PRACTICE_MENU.Options.resources
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\obj\Debug\CO3_PRACTICE_MENU.Properties.Resources.resources
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\obj\Debug\CO3 PRACTICE MENU.csproj.GenerateResource.Cache
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\obj\Debug\CO3 PRACTICE MENU.exe
+\\internal.hereford.ac.uk\student\2017 enrolment\tch71089\my documents\visual studio 2015\Projects\CO3 PRACTICE MENU\CO3 PRACTICE MENU\obj\Debug\CO3 PRACTICE MENU.pdb
